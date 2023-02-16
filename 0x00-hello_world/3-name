@@ -1,0 +1,2 @@
+#!/bin/bash 5007298301
+gcc $CFILE -o cisfun
